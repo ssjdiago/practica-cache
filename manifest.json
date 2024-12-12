@@ -1,0 +1,23 @@
+{
+    "name": "Nexus Marketing Hub",
+    "short_name": "NexusHub",
+    "description": "Plataforma de marketing digital para microempresas y emprendedores.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#3a8697",
+    "theme_color": "#3a8697",
+    "icons": [
+      {
+        "src": "/images/LogoValentina",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/i/images/LogoValentina",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+   
+  }
+  
